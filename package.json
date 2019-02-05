@@ -1,28 +1,28 @@
 {
-  "name": "Nuxty",
-  "version": "1.0.0",
-  "description": "My exquisite Nuxt.js project",
-  "author": "Panos Mats",
-  "private": true,
-  "scripts": {
-    "dev": "nuxt",
-    "build": "nuxt build",
-    "start": "nuxt start",
-    "generate": "nuxt generate"
-  },
-  "dependencies": {
-    "@nuxtjs/axios": "^5.3.6",
-    "bootstrap": "^4.2.1",
-    "cross-env": "^5.2.0",
-    "jquery": "^3.3.1",
-    "jsdom": "^13.2.0",
-    "nuxt": "^2.3.4",
-    "popper.js": "^1.14.7"
-  },
-  "devDependencies": {
-    "css-loader": "^2.1.0",
-    "nodemon": "^1.18.9",
-    "postcss-loader": "^3.0.0",
-    "style-loader": "^0.23.1"
-  }
+    "name": "Nuxty Admin Material Pro",
+    "version": "1.0.0",
+    "description": "A Nuxt.js starter pack using material pro template. Authentication, social logins, roles, profile views and a blank admin page to start with.",
+    "author": "Panos Mats",
+    "private": true,
+    "scripts": {
+        "dev": "nuxt",
+        "build": "nuxt build",
+        "start": "nuxt start",
+        "generate": "nuxt generate"
+    },
+    "dependencies": {
+        "@nuxtjs/axios": "^5.3.6",
+        "bootstrap": "^4.2.1",
+        "cross-env": "^5.2.0",
+        "jquery": "^3.3.1",
+        "jsdom": "^13.2.0",
+        "nuxt": "^2.3.4",
+        "popper.js": "^1.14.7"
+    },
+    "devDependencies": {
+        "css-loader": "^2.1.0",
+        "nodemon": "^1.18.9",
+        "postcss-loader": "^3.0.0",
+        "style-loader": "^0.23.1"
+    }
 }

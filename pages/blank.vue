@@ -2,6 +2,15 @@
 
 <script>
 export default {
-    layout: 'dashboard'
+    layout: 'dashboard',
+
+    asyncData() {
+    return new Promise((resolve) => {
+      setTimeout(function () {
+        resolve({})
+      }, 1000)
+    })
+  }
+  
 }
 </script>

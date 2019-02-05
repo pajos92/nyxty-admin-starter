@@ -1,6 +1,6 @@
 # Nuxty
 
-> My exquisite Nuxt.js project
+> A Nuxt.js starter pack using material pro template. Authentication, social logins, roles, profile views and a blank admin page to start with.
 
 ## Build Setup
 

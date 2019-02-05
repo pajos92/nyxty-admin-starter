@@ -18,21 +18,21 @@ module.exports = {
             { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
         ],
         script: [
-            { src: 'material-pro-js/jquery.min.js' },
-            { src: 'material-pro-js/popper.min.js' },
-            { src: 'material-pro-js/bootstrap.min.js' },
-            { src: 'material-pro-js/jquery.slimscroll.js' },
-            { src: 'material-pro-js/waves.js' },
-            { src: 'material-pro-js/sidebarmenu.js' },
-            { src: 'material-pro-js/sticky-kit.min.js' },
-            { src: 'material-pro-js/custom.min.js' }
+            { src: "material-pro-js/jquery.min.js" },
+            { src: "material-pro-js/custom.min.js" },
+            { src: "material-pro-js/popper.min.js" },
+            { src: "material-pro-js/bootstrap.min.js" },
+            { src: "material-pro-js/jquery.slimscroll.js" },
+            { src: "material-pro-js/waves.js" },
+            { src: "material-pro-js/sidebarmenu.js" },
+            { src: "material-pro-js/sticky-kit.min.js" }
         ]
     },
 
     /*
      ** Customize the progress-bar color
      */
-    loading: { color: '#3b8070' },
+    loading: '~/components/Loading.vue',
 
     /*
      ** Global CSS

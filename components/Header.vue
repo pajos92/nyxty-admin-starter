@@ -377,22 +377,6 @@
                 <li role="separator" class="divider"></li>
                 <li>
                   <a href="#">
-                    <i class="ti-user"></i> My Profile
-                  </a>
-                </li>
-                <li>
-                  <a href="#">
-                    <i class="ti-wallet"></i> My Balance
-                  </a>
-                </li>
-                <li>
-                  <a href="#">
-                    <i class="ti-email"></i> Inbox
-                  </a>
-                </li>
-                <li role="separator" class="divider"></li>
-                <li>
-                  <a href="#">
                     <i class="ti-settings"></i> Account Setting
                   </a>
                 </li>
@@ -420,16 +404,7 @@
             </a>
             <div class="dropdown-menu dropdown-menu-right scale-up">
               <a class="dropdown-item" href="#">
-                <i class="flag-icon flag-icon-in"></i> India
-              </a>
-              <a class="dropdown-item" href="#">
-                <i class="flag-icon flag-icon-fr"></i> French
-              </a>
-              <a class="dropdown-item" href="#">
-                <i class="flag-icon flag-icon-cn"></i> China
-              </a>
-              <a class="dropdown-item" href="#">
-                <i class="flag-icon flag-icon-de"></i> Dutch
+                <i class="flag-icon flag-icon-gr"></i> Ελληνικά
               </a>
             </div>
           </li>

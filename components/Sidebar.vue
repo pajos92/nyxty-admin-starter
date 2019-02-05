@@ -7,12 +7,12 @@
         <!-- User profile text-->
         <div class="profile-text">
           <a href="#"
-            class="dropdown-toggle u-dropdown"
+            class="dropdown-toggle u-dropdown text-center"
             data-toggle="dropdown"
             role="button"
             aria-haspopup="true"
             aria-expanded="true"
-          >John Doe</a>
+          >John Doeasdsads</a>
           <div class="dropdown-menu animated flipInY">
             <nuxt-link to="/profile" class="dropdown-item">
               <i class="ti-user"></i>
@@ -38,13 +38,18 @@
         <ul id="sidebarnav">
           <li class="nav-small-cap">DASHBOARD</li>
           <li>
-            <a class="has-arrow waves-effect waves-dark" href="#" aria-expanded="false">
+            <a class="has-arrow waves-effect waves-dark" aria-expanded="false">
               <i class="mdi mdi-gauge"></i>
               <span class="hide-menu">My Dashboard</span>
             </a>
             <ul aria-expanded="false" class="collapse">
               <li>
                 <nuxt-link to="/">Overview</nuxt-link>
+              </li>
+            </ul>
+            <ul aria-expanded="false" class="collapse">
+              <li>
+                <nuxt-link to="/blank">Blank Page</nuxt-link>
               </li>
             </ul>
           </li>
